@@ -1,3 +1,3 @@
-subscriptionID = "220284d2-6a19-4781-87f8-5c564ec4fec9"
-resourceGroupName = "CloudSkilsRG1992"
+subscriptionID = "a8ae0c25-f39b-459c-8bab-fde28f25d4df"
+resourceGroupName = "TerraformTest"
 location = "eastus"
